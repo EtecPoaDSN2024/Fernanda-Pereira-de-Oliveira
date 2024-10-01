@@ -1,0 +1,5 @@
+1. A chave primária é o identificador de uma tabela, e também não pode ser repetida dentro da mesma. Além disso, seu valor não pode ser repetido. É constituído por um ou mais campos da tabela.
+
+2. Porque pode ocorrer casos de duplicidade. No Brasil, existem pessoas com o mesmo CPF, por isso não é uma boa ideia usá-lo como chave primária.
+
+3. É a chave que consegue conectar a chave primária de uma tabela à outra tabela.
